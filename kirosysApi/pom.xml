@@ -6,6 +6,7 @@
 	<artifactId>kirosysApi</artifactId>
 	<version>1.0</version>
 	<name>kirosysApi</name>
+	<packaging>jar</packaging>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
@@ -18,8 +19,19 @@
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-web</artifactId>
 		</dependency>
-		
+
 	</dependencies>
+	<build>
+		<plugins>
+			<plugin>
+				<groupId>org.springframework.boot</groupId>
+				<artifactId>spring-boot-maven-plugin</artifactId>
+			</plugin>
+		</plugins>
+	</build>
+	<properties>
+		<start-class>com.springboot.SpringMainApplication</start-class>
+	</properties>
 
 </project>
  

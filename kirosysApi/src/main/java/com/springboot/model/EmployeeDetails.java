@@ -1,5 +1,8 @@
 package com.springboot.model;
 
+import org.springframework.stereotype.Component;
+
+@Component
 public class EmployeeDetails {
 	private String empid;
 	
