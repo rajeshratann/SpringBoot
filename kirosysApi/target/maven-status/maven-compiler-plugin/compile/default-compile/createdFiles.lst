@@ -1,4 +1,4 @@
-com/springboot/SpringMainApplication.class
-com/springboot/service/EmployeeService.class
-com/springboot/model/EmployeeDetails.class
-com/springboot/controller/EmployeeContorller.class
+com/kirosys/KirosysApiApplication.class
+com/kirosys/service/StudentService.class
+com/kirosys/controller/StudentController.class
+com/kirosys/model/Student.class

@@ -1,4 +1,4 @@
-/Users/rajeshkumar/git/SpringBoot/kirosysApi/src/main/java/com/springboot/SpringMainApplication.java
-/Users/rajeshkumar/git/SpringBoot/kirosysApi/src/main/java/com/springboot/service/EmployeeService.java
-/Users/rajeshkumar/git/SpringBoot/kirosysApi/src/main/java/com/springboot/controller/EmployeeContorller.java
-/Users/rajeshkumar/git/SpringBoot/kirosysApi/src/main/java/com/springboot/model/EmployeeDetails.java
+/Volumes/My Drive/Developer/Java/Spring_Boot/kirosysApi/src/main/java/com/kirosys/controller/StudentController.java
+/Volumes/My Drive/Developer/Java/Spring_Boot/kirosysApi/src/main/java/com/kirosys/model/Student.java
+/Volumes/My Drive/Developer/Java/Spring_Boot/kirosysApi/src/main/java/com/kirosys/KirosysApiApplication.java
+/Volumes/My Drive/Developer/Java/Spring_Boot/kirosysApi/src/main/java/com/kirosys/service/StudentService.java

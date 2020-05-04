@@ -13,7 +13,6 @@ import org.hibernate.annotations.DynamicInsert;
 import org.hibernate.annotations.DynamicUpdate;
 import org.springframework.stereotype.Component;
 
-@Component
 @Entity
 @Table(name="USER_DETAILS")
 

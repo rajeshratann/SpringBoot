@@ -29,7 +29,7 @@ public class UserDetailsController {
 		
 		List<UserDetails> allUserDetailsList = userDetailsService.getAllUserDetails();
 		
-		return new ResponseEntity<>(allUserDetailsList, new HttpHeaders(), HttpStatus.OK);
+		return new ResponseEntity<>(allUserDetailsList, HttpStatus.OK);
 		
 	}
 	
